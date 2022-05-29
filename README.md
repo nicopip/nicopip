@@ -1,4 +1,4 @@
-<h1 align="center">Bonjour 👋, My name is Tristan</h1>
+<h1 align="center">Bonjour 👋 - My name is Tristan!</h1>
 <h3 align="center">I'm a Software Developer with a passion for creating and building user-friendly Web Apps that promote creativity and learning. I have always been eager to learn new skills and find great satisfaction in being able to create something from scratch. If I'm not coding, I like to run, hike and cook delicious meals.</h3>
 
 ----------------------------------------------------------------------------------------------
